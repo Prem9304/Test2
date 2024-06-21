@@ -1,0 +1,13 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: Prem Singh
+#   twitter: https://x.com/PremSin29265254
+#   url: https://github.com/Prem9304
+# -------------------------------------
+
+cotes:
+  name: Prem Singh
+  twitter: https://x.com/PremSin29265254
+  url: https://github.com/Prem9304
+
